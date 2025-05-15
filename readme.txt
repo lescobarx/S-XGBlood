@@ -11,7 +11,7 @@ Full Execution Instructions
    https://github.com/ampel-leipzig/sbcdata (DOI: 10.5281/zenodo.6922968).
 
    Reference:
-   Johnson A, Bulgarelli L, Pollard T, Horng S, Celi LA, Mark R. MIMIC-IV (version 1.0). PhysioNet. 2021. https://github.com/ampel- leipzig/sbcmodel(DOI: 10.5281/zenodo.10122491).
+   Johnson A, Bulgarelli L, Pollard T, Horng S, Celi LA, Mark R. MIMIC-IV (version 1.0). PhysioNet. 2021. https://doi.org/10.13026/s6n6-xd98 
 
 2. Run the Training Scripts:
 
