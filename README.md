@@ -167,21 +167,10 @@ The MIMIC-IV dataset itself requires credentialed access:
 
 *(Please ensure that the scripts are configured with correct paths to data and output directories. You might need to modify parts of the scripts if your environment or data setup differs.)*
 
-## Citation
-
-If you use S-XGBlood or this codebase in your research, please cite our paper:
-
-```bibtex
-@article{EscobarEncinas2024SXGBlood,
-  title={Enhancing Sepsis Prediction with S-XGBlood: An XGBClassifier-Based Approach Using Complete Blood Count Data},
-  author={Escobar Encinas, Laura and Rubio-Largo, Álvaro and Granado-Criado, José M.},
-  journal={Knowledge-Based Systems}, 
-  year={2025}, 
-}
-```
 
 ## Acknowledgements
 
 The authors would like to thank the contributors to the MIMIC-IV database, University Medicine Leipzig, and University Medicine Greifswald for making their data available for research. We also acknowledge the work of Steinbach et al. (2024) which provided a valuable benchmark for our study.
 
 We thank the Fundación Valhondo Calaff for the financial support provided to Laura Escobar-Encinas for carrying out this research. This work was also partially supported by the MCIN (Ministry of Science and Innovation, Spain), the AEI (State Research Agency, Spain), and the ERDF (European Regional Development Fund, EU), under the project PID2022-137275NA-I00 funded by MCIN/AEI/10.13039/501100011033\\/FEDER, EU (X-BIO project).
+
